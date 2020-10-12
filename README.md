@@ -2,6 +2,12 @@
 
 Cracking hashed passwords using a python script for sha256 algorithm
 
+-[x] wordsList.txt : 
+-[x] CTF1.py:
+-[x] cracked.txt
+-[x] hashedPasswords.txt
+
+
 ## Rules
 
 Rules to generate the random password guesses:
