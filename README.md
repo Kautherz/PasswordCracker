@@ -15,13 +15,13 @@ Cracking hashed passwords using a python script for sha256 algorithm
 
 Rules to generate the random password guesses:
       
-      1.	random English word chosen (more than 10 characters)
+      1. random English word chosen (more than 10 characters)
       
-      2.	first character sometimes captialized
+      2. first character sometimes captialized
       
-      3.	substitutions: {'s':'$', 'a': '4', 'l': '1', 'e': '3', 't': '7', 'i': '1', 'o': '0', 'b': '8', 'g': '9'}
+      3. substitutions: {'s':'$', 'a': '4', 'l': '1', 'e': '3', 't': '7', 'i': '1', 'o': '0', 'b': '8', 'g': '9'}
       
-      4.	At the end of the word, a symbol and a digit get appended. 
+      4. At the end of the word, a symbol and a digit get appended. 
         The following are the symbols used: ! @ # $ % ^ & * ( ) { } | : ; [ ] ? > <
 
 ## Server 
