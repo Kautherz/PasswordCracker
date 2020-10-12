@@ -2,13 +2,13 @@
 
 Cracking hashed passwords using a python script for sha256 algorithm
 
-- [x] wordsList.txt : 
+- [x] wordsList.txt : the list of words to generate the password guesses within the password cracker
 
-- [x] CTF1.py:
+- [x] CTF1.py : the password cracker
 
-- [x] cracked.txt
+- [x] cracked.txt : list of some of the cracked passwords from the hashedPasswords
 
-- [x] hashedPasswords.txt
+- [x] hashedPasswords.txt : 100 hashes of passwords
 
 
 ## Rules
