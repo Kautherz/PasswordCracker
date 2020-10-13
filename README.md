@@ -28,7 +28,7 @@ Rules to generate the random password guesses:
 
 Run the python password cracker script on the UNO Cook Server: ssh kzeini@cook.cs.uno.edu 
 
-On the server, use the screen command to run the script non-stop to find as many passwords as possible: 
+On the server, use the screen command to run the script non-stop to crack as many passwords as possible: 
 
       screen 
       
